@@ -1,3 +1,9 @@
+## Project Highlights
+
+- End-to-end PD modeling pipeline
+- Out-of-time validation framework
+- Calibration diagnostics and correction
+- ML vs traditional model comparison
 # Credit Risk Modeling Project (PD Estimation)
 
 ## Objective
