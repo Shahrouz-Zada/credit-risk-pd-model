@@ -1,9 +1,4 @@
-## Project Highlights
 
-- End-to-end PD modeling pipeline
-- Out-of-time validation framework
-- Calibration diagnostics and correction
-- ML vs traditional model comparison
 # Credit Risk Modeling Project (PD Estimation)
 
 ## Objective
@@ -11,6 +6,12 @@
 This project implements an end-to-end credit risk modeling framework for estimating Probability of Default (PD), inspired by Basel/IFRS9 practices.
 
 ---
+## Project Highlights
+
+- End-to-end PD modeling pipeline
+- Out-of-time validation framework
+- Calibration diagnostics and correction
+- ML vs traditional model comparison
 
 ## Methodology
 
